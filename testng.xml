@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AndroidStudiApp" parallel="tests" thread-count="1">
+
+	<test name="Test">
+		<classes>
+			<!-- class name="com.studi.testScripts.FirstTest_Verify_Login" />-->
+			<class name="com.studi.pagemodules.Module_Login"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- AndroidStudiApp -->

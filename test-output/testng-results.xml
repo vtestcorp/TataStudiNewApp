@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AndroidStudiApp" duration-ms="39286" started-at="2020-12-09T19:10:06Z" finished-at="2020-12-09T19:10:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39286" started-at="2020-12-09T19:10:06Z" finished-at="2020-12-09T19:10:45Z">
+      <class name="com.studi.pagemodules.Module_Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.studi.pagemodules.Module_Login@49e4cb85]" name="setUp" is-config="true" duration-ms="21746" started-at="2020-12-10T00:40:06Z" finished-at="2020-12-10T00:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login_To_App()[pri:0, instance:com.studi.pagemodules.Module_Login@49e4cb85]" name="login_To_App" duration-ms="17524" started-at="2020-12-10T00:40:27Z" finished-at="2020-12-10T00:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_To_App -->
+      </class> <!-- com.studi.pagemodules.Module_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- AndroidStudiApp -->
+</testng-results>
